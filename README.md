@@ -1,2 +1,2 @@
 # survey-form
-Responsive web design project two on freeCodeCamp.
+This is the second project of the "Responsive Web Design Certification" at freeCodeCamp.
